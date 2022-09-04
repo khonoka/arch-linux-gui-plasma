@@ -74,7 +74,6 @@ parted
 partimage
 ppp
 pptpclient
-reflector
 reiserfsprogs
 rp-pppoe
 rsync
@@ -117,6 +116,7 @@ plasma
 alg-plasma-settings
 
 #System Utilities for ALG Plasma
+gvim
 konsole
 kate
 dolphin
@@ -168,3 +168,20 @@ paru
 nvidia
 nvidia-utils
 nvidia-settings
+
+#Proxy Tools
+v2ray
+trojan-go
+naiveproxy
+shadowsocks
+shadowsocks-rust-git
+shadowsocks-qt5
+qv2ray
+qv2ray-plugin
+v2raya
+gg
+proxychains
+
+#Input Method
+fcitx5-im
+fcitx5-rime
